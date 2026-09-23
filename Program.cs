@@ -4,6 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        Task2.Task();
+        Task3.Task();
     }
 }
