@@ -1,0 +1,14 @@
+C:\Проєкти vs code\Algorithms\bin\Debug\net10.0\Algorithms.exe
+C:\Проєкти vs code\Algorithms\bin\Debug\net10.0\Algorithms.deps.json
+C:\Проєкти vs code\Algorithms\bin\Debug\net10.0\Algorithms.runtimeconfig.json
+C:\Проєкти vs code\Algorithms\bin\Debug\net10.0\Algorithms.dll
+C:\Проєкти vs code\Algorithms\bin\Debug\net10.0\Algorithms.pdb
+C:\Проєкти vs code\Algorithms\obj\Debug\net10.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Проєкти vs code\Algorithms\obj\Debug\net10.0\Algorithms.AssemblyInfoInputs.cache
+C:\Проєкти vs code\Algorithms\obj\Debug\net10.0\Algorithms.AssemblyInfo.cs
+C:\Проєкти vs code\Algorithms\obj\Debug\net10.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\Проєкти vs code\Algorithms\obj\Debug\net10.0\Algorithms.dll
+C:\Проєкти vs code\Algorithms\obj\Debug\net10.0\refint\Algorithms.dll
+C:\Проєкти vs code\Algorithms\obj\Debug\net10.0\Algorithms.pdb
+C:\Проєкти vs code\Algorithms\obj\Debug\net10.0\Algorithms.genruntimeconfig.cache
+C:\Проєкти vs code\Algorithms\obj\Debug\net10.0\ref\Algorithms.dll
